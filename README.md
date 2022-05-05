@@ -1,4 +1,4 @@
-# Name of project
+# Seaside
 
 > A longer description
 
@@ -22,11 +22,11 @@
 
 ## General info
 
-> A short description
+- Company which will help people to start their own business
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/seaside.png)
 
 ## Technologies
 
@@ -49,11 +49,15 @@ console.log("Hello World");
 
 ## Features
 
-List of features ready and Todos for future development
+List of features ready for future development
 
--
--
--
+- Home
+
+- About us
+
+- Our service
+
+- Contact
 
 To-do list:
 
