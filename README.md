@@ -1,6 +1,5 @@
 # Seaside
 
-https://www.figma.com/file/l963GSmMgEXcQU0sUi8YIT/My-file?node-id=106%3A42
 
 > A longer description
 
